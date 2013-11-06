@@ -1,4 +1,7 @@
 ec2instances.info
 ---
 
-I was sick of comparing EC2 instance metrics and pricing on Amazon's site so I made this. Improvements welcome!
+This is a fork of the original site by powdahound. I've implemented middleman and converted the ec2 configuration to a yml file.
+I also added in pricing for Oregon and California. 
+
+As always improvements are welcome.
